@@ -57,7 +57,6 @@ function ContactPage() {
               <div className="form-field">
                 <label htmlFor="text-area">Enter your Message*</label>
                 <textarea
-                  name="textarea"
                   id="textarea"
                   cols="30"
                   rows="10"

@@ -4,7 +4,7 @@ import ImageSection from "../Components/ImageSection";
 import ReviewsSetion from "../Components/ReviewsSection";
 import ServicesSection from "../Components/ServicesSection";
 import Title from "../Components/Title";
-import { MainLayout, InnerLayout } from "../styles/Layouts";
+import { MainLayout } from "../styles/Layouts";
 
 function AboutPage() {
   return (

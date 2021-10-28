@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Title from '../Components/Title';
 import blogs from '../data/Blogs';
 import {MainLayout, InnerLayout} from '../styles/Layouts';
-import Particle from '../Components/Particle';
+
 
 function BlogsPage() {
     return (

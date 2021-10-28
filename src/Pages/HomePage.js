@@ -1,5 +1,4 @@
 import React from "react";
-import Particles from "react-particles-js";
 import styled from "styled-components";
 import Particle from "../Components/Particle";
 import FacebookIcon from "@material-ui/icons/Facebook";
