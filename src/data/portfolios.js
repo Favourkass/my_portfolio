@@ -2,6 +2,7 @@ import carzone from "../img/carzone.png";
 import hotelbooking from "../img/hotelbooking.png";
 import devprimebackend from "../img/devprimebackend.png";
 import devprimefrontend from "../img/devprime-frontend.png";
+import entertainmenthub from "../img/entertainmenthub.png";
 import xspensr from "../img/xspensr.png";
 
 const portfolios = [
@@ -59,6 +60,17 @@ const portfolios = [
     tags: ["react", "redux", "CSS", "Javascript", "Bootstrap"],
     description:
       "A web application for tracking expenses. The web application is built using React and uses Bootstrap for styling. The web application is hosted on Netlify.",
+  },
+  {
+    id: 6,
+    category: "Reactjs",
+    image: entertainmenthub,
+    source: "https://github.com/Favourkass/ReactJsTheMovieDb.git",
+    visit: "https://entertainment-hub.netlify.app/",
+    title: "Latest Movie Collection",
+    tags: ["react", "redux", "Styled Components", "Javascript", "Bootstrap"],
+    description:
+      "A web application for viewing the latest movie collection. The web application is built using React and uses styled components for styling. The web application is hosted on Netlify.",
   },
 ];
 
