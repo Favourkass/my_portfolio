@@ -43,8 +43,8 @@ function Skills() {
                         />
                         <ProgressBar 
                             title={'REACT NATIVE'}
-                            width={'60%'}
-                            text={'60%'}
+                            width={'90%'}
+                            text={'90%'}
                         />
                         <ProgressBar 
                             title={'DEVOPS'}
