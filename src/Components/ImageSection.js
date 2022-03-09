@@ -18,10 +18,12 @@ function ImageSection() {
         </div>
         <p className="paragraphy">
           I am a full stack developer with a passion for building beautiful and
-          intuitive user interfaces. I have a background in QA and a love for
-          technology. I have worked on a few projects both frontend and backend.
+          intuitive user interfaces as well as restful api's. I majorly work on the backend but i 
+          also love working with react native on the frontend.
+          I have worked on a few projects both frontend and backend.
           on my free time I like to read, watch movies and play video games. if
-          i run into a problem, i will always try to solve it. and i will always
+          i run into a problem, i will always try to solve it and 
+          when i have exhuasted my options i reach out for help in a timely manner. ALso i always
           try to learn something new.
         </p>
         <div className="about-info">
@@ -41,7 +43,7 @@ function ImageSection() {
             <p>: Nigerian </p>
             <p>: English </p>
             <p>: Ajah Lagos </p>
-            <p>: Freelance</p>
+            <p>: Software Engineering</p>
           </div>
         </div>
         <Link to="contact">

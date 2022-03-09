@@ -16,11 +16,11 @@ function HomePage() {
           Hi I'm<span> Nnabue Favour </span>
         </h1>
         <p>
-          I am a fullstack developer specialized in Reactjs for frontend and
+          I am a fullstack developer specialized in React Native for mobile frontend and
           Python django restframework for backend
         </p>
         <div className="icons">
-          <a href="https://codepen.io/pen/" className="icon i-facebook">
+          <a href="https://www.facebook.com/favour.kassidy" className="icon i-facebook">
             <FacebookIcon />
           </a>
           <a href="https://github.com/Favourkass" className="icon i-github">
