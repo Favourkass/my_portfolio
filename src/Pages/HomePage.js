@@ -16,7 +16,7 @@ function HomePage() {
           Hi I'm<span> Nnabue Favour </span>
         </h1>
         <p>
-          I am a fullstack developer specialized in React Native for mobile frontend and
+          I am a fullstack developer specialized in React Native for mobile frontend, react js for web  and
           Python django restframework for backend
         </p>
         <div className="icons">
