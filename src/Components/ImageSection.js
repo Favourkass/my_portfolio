@@ -19,7 +19,7 @@ function ImageSection() {
         <p className="paragraphy">
           I am a full stack developer with a passion for building beautiful and
           intuitive user interfaces as well as restful api's. I majorly work on the backend but i 
-          also love working with react native on the frontend.
+          also love working with react native or react js on the frontend.
           I have worked on a few projects both frontend and backend.
           on my free time I like to read, watch movies and play video games. if
           i run into a problem, i will always try to solve it and 
